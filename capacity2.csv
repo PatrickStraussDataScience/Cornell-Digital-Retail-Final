@@ -1,0 +1,382 @@
+﻿ID,NAME,CAPACITY
+1,18 Dorrance Warehouse,15
+10,B.U. Central - 725 Comm. Ave.,11
+100,Davis Square,25
+101,Ball Sq,19
+102,Powder House Circle - Nathan Tufts Park,15
+103,JFK Crossing at Harvard St. / Thorndike St.,15
+104,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,19
+105,Lower Cambridgeport at Magazine St / Riverside Rd,19
+106,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,15
+107,Ames St at Main St,19
+108,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,17
+109,West End Park,35
+11,Longwood Ave at Binney St,15
+110,Harvard University Gund Hall at Quincy St / Kirkland St,15
+111,Packard Ave at Powderhouse Blvd,15
+112,Clarendon Hill at Broadway,15
+113,Andrew T Stop - Dorchester Ave at Dexter St,15
+114,Teele Square,15
+115,Porter Square Station,19
+116,359 Broadway - Broadway at Fayette Street,23
+117,Binney St / Sixth St,19
+118,Linear Park - Mass. Ave. at Cameron Ave. ,19
+119,South Boston Library - 646 E Broadway,15
+12,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,26
+120,Beacon St at Charles St,19
+121,W Broadway at Dorchester St,17
+122,Burlington Ave at Brookline Ave,15
+124,Curtis Hall - South St at Centre St,15
+125,Hyde Square - Barbara St at Centre St,15
+126,Egleston Square - Atherton St at Washington St,15
+128,E Cottage St at Columbia Rd,15
+129,Hayes Square - Vine St at Moulton St,15
+13,Boston Medical Center - E Concord St at Harrison Ave,15
+130,Uphams Corner,15
+131,Jackson Square T Stop,18
+133,Green Street T Stop - Green St at Amory St,23
+134,Boylston St at Dartmouth St FORMER,15
+135,ID Building East,17
+136,ID Building West,19
+137,Magoun Square at Trum Field,19
+138,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,15
+139,Dana Park,19
+14,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,25
+140,Danehy Park,17
+141,Kendall Street,17
+142,Alewife Station at Russell Field,23
+143,EF - North Point Park,23
+144,Rogers St & Land Blvd,19
+145,Rindge Avenue - O'Neill Library,19
+146,Murphy Skating Rink - 1880 Day Blvd,19
+149,175 N Harvard St,17
+15,Brighton Mills - 370 Western Ave,15
+150,State Street at Channel Center,19
+151,Surface Rd at India St,19
+152,Ink Block - Harrison Ave at Herald St,25
+156,Somerville Hospital,15
+157,Seaport Blvd at Sleeper St,15
+159,S Huntington Ave at Heath St,15
+16,Back Bay T Stop - Dartmouth St at Stuart St,19
+160,Wentworth Institute of Technology - Huntington Ave at Vancouver St,12
+161,W Broadway at D St,20
+162,Franklin Park - Seaver St at Humboldt Ave,15
+163,The Lawn on D,19
+167,Ryan Playground - Dorchester Ave at Harbor View St,15
+169,Edwards Playground - Main St at Eden St,19
+17,Soldiers Field Park - 111 Western Ave,15
+170,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,14
+171,Bunker Hill Community College,23
+173,Savin Hill T Stop - S Sydney St at Bay St,14
+174,Washington St at Brock St,15
+175,Brighton Center - Washington St at Cambridge St,16
+176,Lesley University,15
+177,University Park,19
+178,MIT Pacific St at Purrington St,19
+179,MIT Vassar St,53
+180,Mt Auburn,19
+181,Huron Ave At Vassal Lane,19
+182,Museum of Science,19
+183,Alewife MBTA at Steel Place,19
+184,Sidney Research Campus/Erie Street at Waverly,19
+185,Third at Binney,15
+186,Congress St at Northern Ave,15
+187,Cypress St at Clark Playground,15
+188,Foss Park,15
+189,Kendall T,23
+19,Park Dr at Buswell St,15
+190,Nashua Street at Red Auerbach Way,36
+191,Tappan St at Brookline Hills MBTA,15
+192,Purchase St at Pearl St,19
+193,Brookline Town Hall,15
+194,Broadway St at Mt Pleasant St,19
+195,Child St at North St,15
+196,Roxbury YMCA - Warren St at MLK Blvd,10
+197,MLK Blvd at Washington St,15
+199,Uphams Corner T Stop - Magnolia St at Dudley St,15
+20,Aquarium T Stop - 200 Atlantic Ave,23
+200,Washington St at Melnea Cass Blvd,19
+201,NCAAA - Walnut Ave at Crawford St,15
+202,Grove Hall Library - 41 Geneva Ave,15
+203,Columbia Rd at Ceylon St,15
+204,Walnut Ave at Warren St,15
+205,Bowdoin St at Quincy St,15
+206,Government Center - Cambridge St at Court St,35
+208,Oak Square - 615 Washington St,13
+209,Chelsea St at Saratoga St,15
+21,Prudential Center - 101 Huntington Ave,18
+210,Bennington St at Byron St,15
+211,Piers Park,15
+212,Maverick Square - Lewis Mall,33
+213,East Boston Neighborhood Health Center - 20 Maverick Square,16
+214,Airport T Stop - Bremen St at Brooks St,15
+215,The Eddy - New St at Sumner St,15
+216,Glendon St at Condor St,15
+217,Orient Heights T Stop - Bennington St at Saratoga St,19
+218,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,15
+219,Boston East - 126 Border St,15
+22,South Station - 700 Atlantic Ave,47
+221,Verizon Innovation Hub 10 Ware Street,19
+222,Troy Boston,5
+224,Fresh Pond Reservation,17
+225,Cambridge Dept. of Public Works -147 Hampshire St.,19
+226,Commonwealth Ave At Babcock St,15
+227,Silber Way,19
+228,One Memorial Drive,19
+23,Boston City Hall - 28 State St,25
+232,Four Corners - 157 Washington St,11
+233,St Mary's,15
+234,Broadway at Central St,19
+235,East Somerville Library (Broadway and Illinois),15
+236,Assembly Square T,15
+239,Community Path at Cedar Street,15
+24,Seaport Square - Seaport Blvd at Northern Ave,23
+25,South End Library - Tremont St at W Newton St,15
+255,Park St at Norwell St,15
+258,Gallivan Blvd at Adams St,15
+259,Washington St at Bradlee St,15
+26,Washington St at Waltham St,15
+260,Fields Corner T Stop,15
+27,Roxbury Crossing T Stop - Columbus Ave at Tremont St,23
+271,Ashmont T Stop,15
+272,Shawmut T Stop,19
+273,Forest Hills,40
+279,Williams St at Washington St,23
+280,Main St at Baldwin St,19
+282,Stony Brook T Stop,19
+29,Innovation Lab - 125 Western Ave at Batten Way,19
+296,Farragut Rd at E. 6th St,23
+3,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,14
+30,Brigham Circle - Francis St at Huntington Ave,15
+308,BCBS Hingham,15
+31,Seaport Hotel - Congress St at Seaport Ln,19
+317,BCBS Quincy,15
+318,Ames St at Broadway,19
+319,84 Cambridgepark Dr,27
+32,Landmark Center - Brookline Ave at Park Dr,15
+327,Main St at Thompson Sq,15
+328,Grove St at Community Path,15
+329,Washington St at Myrtle St,15
+33,Kenmore Square,26
+330,30 Dane St,15
+331,Huntington Ave at Mass Art,15
+332,Harvard Ave at Brainerd Rd,15
+333,699 Mt Auburn St,25
+334,Mass Ave at Hadley/Walden,19
+335,Harvard St at Greene-Rose Heritage Park,19
+336,Mattapan T Stop,15
+337,Roslindale Village - South St,15
+338,Commonwealth Ave at Kelton St,15
+339,Archdale Rd at Washington St,15
+340,Blue Hill Ave at Almont St,19
+341,Roslindale Village - Washington St,15
+342,Boylston St at Jersey St,15
+343,Morton St T,15
+344,Commonwealth Ave at Chiswick Rd,19
+345,Park Plaza at Charles St S.,19
+346,Cleveland Circle,15
+347,Thetford Ave at Norfolk St,15
+348,Talbot Ave At Blue Hill Ave,15
+349,Washington St at Talbot Ave,17
+35,Arch St at Franklin St,15
+350,Codman Square Library,17
+351,Faneuil St at Arlington St,15
+352,Ring Rd,15
+353,Mattapan Library,15
+354,Washington St at Egremont Rd,15
+355,Bennington St at Constitution Beach,15
+356,Charlestown Navy Yard,23
+357,Centre St at Seaverns Ave,15
+358,Medford St at Charlestown BCYF,19
+359,One Brigham Circle,15
+36,Copley Square - Dartmouth St at Boylston St,28
+360,Bartlett St at John Elliot Sq,15
+361,Deerfield St at Commonwealth Ave,19
+362,Columbia Rd at Tierney Community Center,19
+363,Harrison Ave at Mullins Way,19
+364,Tremont St at Northampton St,19
+365,Harrison Ave at Bennet St,17
+366,Broadway T Stop,19
+367,Vassal Lane at Tobin/VLUS,19
+368,Blue Hill Ave at Southwood St,15
+369,Boston Public Market,15
+37,New Balance - 20 Guest St,14
+370,Dartmouth St at Newbury St,19
+371,700 Huron Ave,19
+372,Boylston St at Exeter St,19
+373,Belgrade Ave at Walworth St,14
+374,Tremont St at Hamilton Pl,18
+376,Honan Library,15
+377,Perry Park,19
+378,191 Beacon St,19
+379,Tremont St at W. Dedham St,15
+380,Mass Ave at Albany St,18
+381,Inman Square at Springfield St.,25
+384,Clarendon St at Newbury St,15
+385,Albany St at E. Brookline St,15
+386,Sennott Park Broadway at Norfolk Street,19
+387,7 Acre Park,15
+388,Main Street at Carter Street,15
+389,Everett Square (Broadway at Chelsea St),14
+39,Washington St at Rutland St,27
+390,Broadway at Lynde St,15
+391,Encore,15
+392,Glendale Square (Ferry St at Broadway),15
+393,Swan St. Park,15
+394,Broadway at Maple St,13
+395,Chelsea St at Vine St,11
+396,Wasgatt Playground,15
+397,Broadway at Beacham St,15
+398,75 Binney St,19
+399,Shawmut Ave at Oak St W,15
+4,Tremont St at E Berkeley St,19
+40,Lewis Wharf at Atlantic Ave,19
+400,Lansdowne T Stop,27
+401,High St at Cypress St,15
+402,Washington St at Griggs Rd,15
+403,Marion St at Harvard St,15
+404,Mass Ave T Station,14
+405,Sydney St at Carson St,19
+406,Somerville City Hall Annex,19
+407,Craigie at Summer St,15
+408,Edgerly Education Center,15
+409,Elm St at White St,15
+41,Packard's Corner - Commonwealth Ave at Brighton Ave,27
+410,Adams St at Lonsdale St,15
+411,Dorchester Ave at King St,15
+412,Washington St at Peters Park,15
+413,Kennedy-Longfellow School 158 Spring St,19
+414,Discovery Park - 30 Acorn Park Drive,23
+415,Stuart St at Berkeley St,19
+416,Blossom St at Charles St,15
+417,Columbus Ave at W. Canton St,19
+419,Central Square East Boston,15
+42,Boylston St at Arlington St,31
+420,Charles St at Pinckney St,15
+421,Northbourne Rd at Hyde Park Ave,15
+422,American Legion Hwy at Canterbury St,15
+423,Mt. Hope St at Hyde Park Ave,15
+424,Jamaica St at South St,19
+425,The Dimock Center,16
+426,Surface Rd at Summer St,27
+427,Washington St at Denton Terr,15
+428,Western Ave at Richardson St,15
+43,Rowes Wharf at Atlantic Ave,15
+430,Washington St at Walsh Playground,15
+431,Washington St at Fuller St,15
+432,Centre St at W. Roxbury Post Office,19
+433,Centre St at Parkway YMCA,17
+434,Spring St at Powell St,19
+435,Central Ave at River St,15
+436,Maverick St at Massport Path,15
+437,Berkshire Street at Cambridge Street,19
+438,Mobile Temporary Station,15
+44,Congress St at Boston City Hall,23
+440,Boston Landing,17
+441,Sullivan Square,19
+442,Hyde Park Ave at Walk Hill St,15
+443,Whittier St Health Center,19
+445,Geiger Gibson Community Health Center,19
+446,700 Commonwealth Ave.,16
+447,The Overlook at St. Gabriel's,18
+448,Hale Park,11
+450,Beacon St at Englewood Ave,15
+451,Washington Sq,15
+452,Beacon St at St. Paul St,15
+453,Beacon St at Hawes St,15
+454,Boylston St at Dartmouth St,15
+455,Coolidge Sq.,12
+456,Graham and Parks School â€“ Linnaean St at Walker St,15
+457,N. Beacon St at N. Beacon Ct,15
+458,Watertown Sq,15
+459,Canal St at Causeway St,15
+46,Christian Science Plaza - Massachusetts Ave at Westland Ave,19
+460,Broad St at Central St,15
+461,Railroad Lot and Minuteman Bikeway,11
+462,Linwood St at Minuteman Bikeway,11
+463,Smith Pl at Wilson Rd,19
+464,Mass Ave at Grafton St,15
+465,Broadway at Grafton St,15
+466,Centre St at Washington St,11
+467,Washington St at Crafts St,11
+468,Nonantum Library,15
+469,Bacon St at Washington St,11
+47,Cross St at Hanover St,19
+470,Union St at Herrick Rd â€“ Newton Centre Green Line,15
+471,MIT Carleton St at Amherst St,27
+472,MIT Hayward St at Amherst St,27
+473,West Newton,15
+474,West Newton Armory,15
+475,Arsenal Yards,14
+476,Boylston St at Charles St,15
+477,Marion St at White St,15
+478,Gove St at Orleans St,19
+479,Galileo Galilei Way at Main Street,19
+48,Post Office Square,15
+480,Thorndike Field at Minuteman Bikeway,11
+481,645 Summer St,19
+482,Kearins Playground,11
+483,Porzio Park,17
+484,Revere Public Library,11
+485,Revere City Hall,11
+486,Langley Lot,11
+487,Community Path at Lowell St,19
+488,Martha Eliot Health Center,16
+489,Day Sq,16
+49,Stuart St at Charles St,18
+490,Blue Hill Ave at Havelock St,18
+491,Harrison Ave at E. Dedham St,19
+492,Harvard Stadium: N. Harvard St at Soldiers Field Rd,15
+5,Northeastern University - North Parking Lot,15
+50,Boylston St at Berkeley St,15
+51,Washington St at Lenox St,15
+52,Newbury St at Hereford St,15
+53,Beacon St at Massachusetts Ave,15
+54,Tremont St at West St,15
+55,Boylston St at Massachusetts Ave,15
+56,Dudley Square - Bolling Building,0
+57,Massachusetts Ave at Columbus Ave,13
+58,Mugar Way at Beacon St,19
+59,Chinatown Gate Plaza,19
+6,Cambridge St at Joy St,15
+60,Charles Circle - Charles St at Cambridge St,19
+61,Boylston St at Fairfield St,19
+63,Dorchester Ave at Gillette Park,15
+64,Congress St at Sleeper St,15
+65,Boston Convention and Exhibition Center - Summer St at West Side Dr,23
+66,Commonwealth Ave at Griggs St,15
+67,MIT at Mass Ave / Amherst St,27
+68,Central Square at Mass Ave / Essex St,19
+69,Coolidge Corner - Beacon St at Centre St,19
+7,Fan Pier,15
+70,Harvard Kennedy School at Bennett St / Eliot St,23
+71,Conway Park - Somerville Avenue,23
+72,One Broadway / Kendall Sq at Main St / 3rd St,23
+73,Harvard Square at Brattle St / Eliot St,15
+74,Harvard Square at Mass Ave/ Dunster,19
+75,Lafayette Square at Mass Ave / Main St / Columbia St,15
+76,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,17
+77,Somerville City Hall,19
+78,Union Square - Somerville,19
+79,Beacon St at Washington / Kirkland,15
+8,Union Square - Brighton Ave at Cambridge St,19
+80,MIT Stata Center at Vassar St / Main St,35
+81,Chinatown T Stop,19
+82,Beacon St at Tappan St,15
+84,CambridgeSide Galleria - CambridgeSide PL at Land Blvd,15
+85,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,19
+86,Brookline Village - Station Street at MBTA,19
+87,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,15
+88,Inman Square at Vellucci Plaza / Hampshire St,15
+89,Harvard Law School at Mass Ave / Jarvis St,19
+9,Commonwealth Ave at Agganis Way,15
+90,Lechmere Station at Cambridge St / First St,15
+91,One Kendall Square at Hampshire St / Portland St,19
+92,University of Massachusetts Boston - Campus Center,19
+93,JFK/UMass T Stop,31
+94,Main St at Austin St,11
+95,Cambridge St - at Columbia St / Webster Ave,15
+96,Cambridge Main Library at Broadway / Trowbridge St,19
+97,Harvard University River Houses at DeWolfe St / Cowperthwaite St,21
+98,Warren St at Chelsea St,23
+99,Wilson Square,15
